@@ -1,6 +1,7 @@
 # 디자인 패턴 스터디
-
+![Group 1](https://github.com/insu0929/design-patterns-study/assets/38856112/35ea6b85-7470-4368-8a2d-78d4d441adae)
 ## 스터디 규칙
+
 
 ### 1. 자료
 - Head First Design Patterns
