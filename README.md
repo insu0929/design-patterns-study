@@ -16,7 +16,7 @@
 |#|목차|일자|링크|
 |------|---|---|---|
 |1|디자인 패턴 소개와 전략 패턴  |2023/08/11| 1. [gooddevelopal](https://gooddevelopal.com/01-%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-%ec%86%8c%ea%b0%9c%ec%99%80-%ec%a0%84%eb%9e%b5-%ed%8c%a8%ed%84%b4/) <br> 2. [Jason](https://argonautsfleece.tistory.com/83)|
-|2|옵저버 패턴               |2023/08/18| |
+|2|옵저버 패턴               |2023/08/18| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-%ec%98%b5%ec%a0%80%eb%b2%84-%ed%8c%a8%ed%84%b4-observer-pattern/) <br> 2. [Jason](https://argonautsfleece.tistory.com/55) |
 |3|데코레이터 패턴            |2023/08/25| |
 |4|팩토리 패턴               |2023/09/01| |
 |5|싱글턴 패턴               |2023/09/08| |
