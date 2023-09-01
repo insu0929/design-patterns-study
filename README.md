@@ -18,7 +18,7 @@
 |1|디자인 패턴 소개와 전략 패턴  |2023/08/11| 1. [gooddevelopal](https://gooddevelopal.com/01-%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-%ec%86%8c%ea%b0%9c%ec%99%80-%ec%a0%84%eb%9e%b5-%ed%8c%a8%ed%84%b4/) <br> 2. [Jason](https://argonautsfleece.tistory.com/83)|
 |2|옵저버 패턴               |2023/08/18| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-%ec%98%b5%ec%a0%80%eb%b2%84-%ed%8c%a8%ed%84%b4-observer-pattern/) <br> 2. [Jason](https://argonautsfleece.tistory.com/55) |
 |3|데코레이터 패턴            |2023/08/25| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-3-%eb%8d%b0%ec%bd%94%eb%a0%88%ec%9d%b4%ed%84%b0-%ed%8c%a8%ed%84%b4-decorator-pattern/) <br> 2. [Jason](https://argonautsfleece.tistory.com/56)|
-|4|팩토리 패턴               |2023/09/01| |
+|4|팩토리 패턴               |2023/09/01| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-4-2-%ec%b6%94%ec%83%81-%ed%8c%a9%ed%86%a0%eb%a6%ac-%ed%8c%a8%ed%84%b4-abstract-factory-pattern/)|
 |5|싱글턴 패턴               |2023/09/08| |
 |6|커맨드 패턴               |2023/09/15| |
 |7|어댑터 패턴과 퍼사드 패턴    |2023/09/22| |
