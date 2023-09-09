@@ -19,7 +19,7 @@
 |2|옵저버 패턴               |2023/08/18| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-%ec%98%b5%ec%a0%80%eb%b2%84-%ed%8c%a8%ed%84%b4-observer-pattern/) <br> 2. [Jason](https://argonautsfleece.tistory.com/55) |
 |3|데코레이터 패턴            |2023/08/25| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-3-%eb%8d%b0%ec%bd%94%eb%a0%88%ec%9d%b4%ed%84%b0-%ed%8c%a8%ed%84%b4-decorator-pattern/) <br> 2. [Jason](https://argonautsfleece.tistory.com/56)|
 |4|팩토리 패턴               |2023/09/01| 1. [팩토리 매서드 gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-4-1-%ed%8c%a9%ed%86%a0%eb%a6%ac-%eb%a9%94%ec%84%9c%eb%93%9c-%ed%8c%a8%ed%84%b4-factory-method-pattern/), [추상 팩토리 gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-4-2-%ec%b6%94%ec%83%81-%ed%8c%a9%ed%86%a0%eb%a6%ac-%ed%8c%a8%ed%84%b4-abstract-factory-pattern/) <br> 2. [팩토리 메서드 Jason](https://argonautsfleece.tistory.com/57), [추상 팩토리 Jason](https://argonautsfleece.tistory.com/87) | 
-|5|싱글턴 패턴               |2023/09/08| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-5-%ec%8b%b1%ea%b8%80%ed%84%b4-%ed%8c%a8%ed%84%b4singleton-pattern/)|
+|5|싱글턴 패턴               |2023/09/08| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-5-%ec%8b%b1%ea%b8%80%ed%84%b4-%ed%8c%a8%ed%84%b4singleton-pattern/) <br> 2.[Jason](https://argonautsfleece.tistory.com/58)|
 |6|커맨드 패턴               |2023/09/15| |
 |7|어댑터 패턴과 퍼사드 패턴    |2023/09/22| |
 |8|템플릿 메서드 패턴          |2023/09/29| |
