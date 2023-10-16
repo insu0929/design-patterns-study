@@ -22,7 +22,7 @@
 |5|싱글턴 패턴               |2023/09/08| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-5-%ec%8b%b1%ea%b8%80%ed%84%b4-%ed%8c%a8%ed%84%b4singleton-pattern/) <br> 2.[Jason](https://argonautsfleece.tistory.com/58)|
 |6|커맨드 패턴               |2023/09/15| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-6-%ec%bb%a4%eb%a7%a8%eb%93%9c-%ed%8c%a8%ed%84%b4command-pattern/) <br> 2.[Jason](https://argonautsfleece.tistory.com/88)|
 |7|어댑터 패턴과 퍼사드 패턴    |2023/09/22| 1. [어댑터 gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-7-1-%ec%96%b4%eb%8c%91%ed%84%b0-%ed%8c%a8%ed%84%b4-adapter-pattern/), [퍼사드 gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-7-2-%ed%8d%bc%ec%82%ac%eb%93%9c-%ed%8c%a8%ed%84%b4-facade-pattern/) <br> 2.[어댑터 Jason](https://argonautsfleece.tistory.com/60) [퍼사드 Jason](https://argonautsfleece.tistory.com/61)|
-|8|템플릿 메서드 패턴          |2023/09/29| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-8-%ed%85%9c%ed%94%8c%eb%a6%bf-%eb%a9%94%ec%84%9c%eb%93%9c-%ed%8c%a8%ed%84%b4template-method-pattern/)|
+|8|템플릿 메서드 패턴          |2023/09/29| 1. [gooddevelopal](https://gooddevelopal.com/%eb%94%94%ec%9e%90%ec%9d%b8-%ed%8c%a8%ed%84%b4-8-%ed%85%9c%ed%94%8c%eb%a6%bf-%eb%a9%94%ec%84%9c%eb%93%9c-%ed%8c%a8%ed%84%b4template-method-pattern/) <br> 2. [Jason](https://argonautsfleece.tistory.com/89)|
 |9|이터레이터와 컴포지트 패턴    |2023/10/06| |
 |10|스테이트 패턴             |2023/10/13| |
 |11|프록시 패턴              |2023/10/20| |
